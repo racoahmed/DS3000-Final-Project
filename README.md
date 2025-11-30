@@ -28,6 +28,9 @@ https://www.kaggle.com/datasets/rhythmroy/sen12flood-flood-detection-dataset
   - baseline models (Logistic Regression, KNN, Decision Tree, Random Forest)
   - neural network models (MLP and CNN)
   - evaluation (accuracy, precision, recall, F1, ROC-AUC & confusion matrices)
+ 
+- `models/`
+  Saved trained models
 
 - `results/`  
   Saved figures and tables generated from the notebook (e.g., model comparison plots).
