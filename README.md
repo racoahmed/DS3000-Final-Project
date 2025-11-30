@@ -1,6 +1,6 @@
 # DS3000 Final Project — Flood Detection from Satellite Imagery (SEN12FLOOD)
 
-## Group 3 — DS3000: Introduction to Machine Learning (Fall 2025)
+## Group 3 — DS3000: Introduction to Machine Learning
 
 **Members:**
 - Raco Ahmed  
